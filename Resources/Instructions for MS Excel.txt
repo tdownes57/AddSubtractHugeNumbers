@@ -1,0 +1,49 @@
+
+----------------------------------------------------------------------------------------------------------
+     How Do I Work with MS Excel & the Generate Numbers utility?   
+----------------------------------------------------------------------------------------------------------
+
+1.   Highlight the numbers in MS Excel you want to process.
+
+2.   Open the Generate Numbers utility.  
+
+3.   In the Main window, press the button which represents your needs, to open a processing window.  
+
+4.   Press the button "Paste" to place your data into the Input box on the processing window. 
+
+5.   Press the button ">>>>>" to start the processing.   
+
+6.   Wait for processing to complete.
+
+7.   Press the button that says "Copy Output". 
+
+8.   Return to MS Excel.  
+
+9.  Find a blank column (or, a group of adjacent blank columns) that are free of any data which will be overwritten by the next step.   
+
+10.   Select the cell of the 1st or 2nd row of the left-hand most column, in the group of blank columns. 
+       (By "the 1st or 2nd row", I mean whichever row contains the row of Printed Numbers (i.e the data you choose to copy-paste into the Generate Numbers utility.) 
+
+11.  (a) Hit the "Paste" button.  (b) Review that the data-set aligns row-by-row with the input data which you copied in Step #1 above.  
+
+12.  (a) Similar to #9 above, select a nearby blank column.  
+       (b) Create the Excel formula to remove the character-data prefix (probably an underscore or single quote-mark).     
+                  =Mid( [Column of Reported Numbers], 1, 100) 
+       (c) Copy the Excel formula to all applicable cells (i.e. rows) of the blank column.  
+
+13.  Review the column of data created in #12.   Does it align row-by-row with the other columns?  
+
+14.  
+
+
+
+
+
+
+
+
+
+
+
+
+
