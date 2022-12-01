@@ -79,43 +79,6 @@
     <Compile Include="FormAddSubtract.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormDemoReportedNum.Designer.vb">
-      <DependentUpon>FormDemoReportedNum.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FormDemoReportedNum.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormGenerateBatch.Designer.vb">
-      <DependentUpon>FormGenerateBatch.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FormGenerateBatch.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormProofOfConcept.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormProofOfConcept.Designer.vb">
-      <DependentUpon>FormProofOfConcept.vb</DependentUpon>
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormMain.Designer.vb">
-      <DependentUpon>FormMain.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FormMain.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormSupportLogin.designer.vb">
-      <DependentUpon>FormSupportLogin.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FormSupportLogin.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormTipsForExcel.Designer.vb">
-      <DependentUpon>FormTipsForExcel.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FormTipsForExcel.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="modAddingDecs.vb" />
     <Compile Include="modAddingDecs_Char.vb" />
     <Compile Include="modAddingHexs.vb" />
@@ -144,21 +107,6 @@
     <EmbeddedResource Include="FormAddSubtract.resx">
       <DependentUpon>FormAddSubtract.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormDemoReportedNum.resx">
-      <DependentUpon>FormDemoReportedNum.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormGenerateBatch.resx">
-      <DependentUpon>FormGenerateBatch.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormProofOfConcept.resx">
-      <DependentUpon>FormProofOfConcept.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormMain.resx">
-      <DependentUpon>FormMain.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormTipsForExcel.resx">
-      <DependentUpon>FormTipsForExcel.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -176,21 +124,10 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CI Logo.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CISolutionsLogo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\MSExcelTipSteps.JPG" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Add_GeneralNotes.txt" />
-    <Content Include="Instructions for MS Excel.txt" />
-    <None Include="Resources\Instructions for MS Excel.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
