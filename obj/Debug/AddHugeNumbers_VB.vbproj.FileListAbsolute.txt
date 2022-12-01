@@ -1,0 +1,3 @@
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.exe
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.xml
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.pdb

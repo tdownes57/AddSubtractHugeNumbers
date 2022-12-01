@@ -1,0 +1,16 @@
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\bin\Debug\AddSubtractDecimals.exe.config
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\bin\Debug\AddSubtractDecimals.exe
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\bin\Debug\AddSubtractDecimals.pdb
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\bin\Debug\AddSubtractDecimals.xml
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractHugeNumbers.vbprojAssemblyReference.cache
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.FormAddSubtract.resources
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.FormDemoReportedNum.resources
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.FormGenerateBatch.resources
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.FormProofOfConcept.resources
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.FormMain.resources
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.FormTipsForExcel.resources
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.Resources.resources
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractHugeNumbers.vbproj.GenerateResource.cache
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.exe
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.xml
+C:\Users\tdown\source\repos\AddSubtractHugeNumbers\obj\Debug\AddSubtractDecimals.pdb
